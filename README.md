@@ -343,41 +343,51 @@ Step 10: Summary of Results
 
 ```
 1. Task Duration Adjustment Formula
+
    Adjust the duration of each task based on worker efficiency.
 
    Formula:
+
    Adjusted Duration = Base Duration / Worker Efficiency
 
    Example:
+
    If the base duration of a task is 5 hours and the worker's efficiency is 1.2,
    Adjusted Duration = 5 hours / 1.2 = 4.17 hours
 
 2. Earliest Start Time (EST) and Earliest Finish Time (EFT)
+
    Calculate the earliest start and finish times for each task in the DAG.
 
    Formula:
+
    EST(task) = max(EFT(predecessor tasks))
    EFT(task) = EST(task) + Adjusted Duration
 
    Example:
+
    - If Task A has EFT of 4 hours, and Task B depends on Task A:
    EST(Task B) = EFT(Task A) = 4 hours
    - If Task B takes 3 hours to complete,
    EFT(Task B) = 4 hours + 3 hours = 7 hours
 
 3. Latest Start Time (LST) and Latest Finish Time (LFT)
+
    Calculate the latest times a task can start and finish without delaying the overall process.
 
    Formula:
+
    LFT(task) = min(LST(successor tasks))
    LST(task) = LFT(task) - Adjusted Duration
 
    Example:
+
    - If Task D must finish by hour 20 to not delay subsequent tasks, and it takes 5 hours to complete:
    LFT(Task D) = 20 hours
    LST(Task D) = 20 hours - 5 hours = 15 hours
 
 4. Slack Time Calculation
+
    Determine the flexibility in scheduling a task without affecting the overall process duration.
 
    Formula:
@@ -385,54 +395,67 @@ Step 10: Summary of Results
               = LFT(task) - EFT(task)
 
    Example:
+
    - If a task has an EST of 7 hours, EFT of 9 hours, LST of 10 hours, and LFT of 12 hours:
    Slack Time = 10 hours - 7 hours = 3 hours
    or
    Slack Time = 12 hours - 9 hours = 3 hours
 
 5. Critical Path Determination
+
    Identify the sequence of tasks that determines the minimum project duration.
 
    Steps:
+
    1. Perform topological sorting on the DAG.
    2. Calculate EST, EFT for each task.
    3. Identify tasks with zero slack time (these are on the critical path).
 
    Example:
+
    - If tasks A, B, C, and D form a chain with no slack:
    Critical Path: A → B → C → D
 
 6. Total Process Duration
+
    Calculate the total duration of the manufacturing process based on the critical path.
 
    Formula:
+
    Total Duration = EFT(last task on critical path)
 
    Example:
+
    - If the last task on the critical path has an EFT of 45 hours,
    Total Process Duration = 45 hours
 
 7. Error Handling and Rescheduling
+
    Adjust the process in case of errors like mechanical failures, worker errors, or supply issues.
 
    Steps:
+
    - For mechanical failures: Halt the process, fix the issue, and recalculate task durations.
    - For worker errors: Retry the task or assign a different worker.
    - For supply issues: Introduce delay and reschedule dependent tasks.
 
    Example:
+
    - If a mechanical failure occurs during Task X, and it takes 2 hours to fix:
    New EFT(Task X) = Previous EFT(Task X) + 2 hours
 
 8. Resource and Worker Optimization
+
    Balance the workload among workers and tools to minimize idle time and fatigue.
 
    Steps:
+
    - Reallocate tasks to underutilized workers.
    - Schedule breaks for workers to manage fatigue.
    - Optimize tool usage to avoid conflicts and delays.
 
    Example:
+
    - If Worker A is highly fatigued, reassign their next task to Worker B, who is less fatigued, to keep the process on schedule.
 ```
 
