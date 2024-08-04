@@ -462,6 +462,78 @@ Step 10: Summary of Results
 <br>
 </details>
 
+<details><summary>Candidate Evaluation Process Formulas</summary>
+<br>
+
+```
+1. Task Duration Calculation
+   Calculate the time taken for each task (processing and reviewing candidates).
+
+   Formula:
+   Task Duration = Base Duration * Number of Candidates
+
+   Example:
+   If processing one candidate takes 2 hours and there are 10 candidates,
+   Total Duration for Processing = 2 hours * 10 = 20 hours
+
+
+2. Sequential Task Processing
+   Each candidate is processed and reviewed one after the other.
+
+   Formula:
+   Total Time = Sum of (Process Candidate n Duration + Review Candidate n Duration) for all candidates
+
+   Example:
+   If processing each candidate takes 2 hours and reviewing takes 1 hour, with 10 candidates:
+   Total Time = (2 + 1) * 10 = 30 hours
+
+
+3. Candidate Comparison
+   After all candidates are processed and reviewed, compare them based on evaluation criteria.
+
+   Formula:
+   Rank(Candidates) = Evaluate(Candidate Score) for all candidates
+
+   Example:
+   If Candidate Scores are [85, 90, 75, 80, 95], Rank them as [3rd, 2nd, 5th, 4th, 1st].
+
+
+4. Final Decision Selection
+   Select the top candidate based on the highest evaluation score or ranking.
+
+   Formula:
+   Final Decision = max(Candidate Score) or Candidate Rank 1
+
+   Example:
+   If the candidate scores are [85, 90, 75, 80, 95], the final decision is to select the candidate with score 95.
+
+
+5. Notification and Process Completion
+   Notify the selected candidate and end the process.
+
+   Steps:
+   - Identify the selected candidate.
+   - Send notification to the selected candidate.
+   - Mark the process as complete.
+
+   Example:
+   If Candidate 5 is selected, notify Candidate 5 and complete the process.
+
+
+6. Total Process Duration
+   Calculate the overall duration for the entire process from start to finish.
+
+   Formula:
+   Total Process Duration = Time for Identifying + Evaluating + Processing + Reviewing + Comparing + Final Decision + Notification
+
+   Example:
+   If identifying candidates takes 5 hours, evaluating takes 3 hours, processing and reviewing each candidate takes 30 hours total, and comparing plus final decision takes 2 hours:
+   Total Process Duration = 5 + 3 + 30 + 2 = 40 hours
+```
+
+<br>
+</details>
+
 #
 ### Related Links
 
