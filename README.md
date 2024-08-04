@@ -20,6 +20,7 @@ Mathematics is also a deeply creative field, where new concepts and methods are 
 
 #### Increased Mass-Speed Percentage Formula Concept
 
+```
 Newton's Mass-Acceleration Force Formula:
 
 F = m * a
@@ -54,6 +55,7 @@ F = 10 kg * 1.005 * 2 m/s²
 F = 20.1 N
 
 Force Mass-Speed Percent = 20.1 N
+```
 
 This concept introduces the idea of modifying the traditional force formula to account for a percentage of speed, which is represented by the term s. In the provided example, the force F is calculated using a mass of 10 kg, an acceleration of 2 m/s², and a speed percentage of 0.5% (converted to the decimal 0.005). The formula calculates the adjusted force considering this speed factor, resulting in a slightly increased force due to the speed percentage.
 
