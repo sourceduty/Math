@@ -62,6 +62,80 @@ This concept introduces the idea of modifying the traditional force formula to a
 <br>
 </details>
 
+<details><summary>Increased Mass-Speed Percentage Formula Concept Expansion</summary>
+<br>
+
+```
+Expanded Mass-Speed Percentage Formula Concept
+
+Newton's Mass-Acceleration Force Formula:
+F = m * a
+
+Mass-Acceleration Force Formula Legend:
+F = force (N)
+m = mass of an object (kg)
+a = acceleration (m/s²)
+
+Expanded Concept Mass-Speed Percentage Formula:
+F = m * (1 + s) * a + D
+
+Expanded Concept Mass-Speed Percentage Formula Legend:
+F = Force considering Mass-Speed Percentage (N)
+m = mass of an object (kg)
+a = acceleration (m/s²)
+s = speed percentage (as a decimal)
+D = drag force (N), which could be proportional to velocity (v)
+
+Drag Force Formula:
+D = k * v²
+
+Drag Force Formula Legend:
+D = drag force (N)
+k = drag coefficient (depends on the medium and shape of the object)
+v = velocity (m/s)
+
+Generalized Formula for Different Motions:
+F = m * (1 + s) * a + k * v²
+
+Generalized Formula Legend:
+F = Total force (N)
+m = mass of an object (kg)
+a = acceleration (m/s²)
+s = speed percentage (as a decimal)
+k = drag coefficient
+v = velocity (m/s)
+
+Expanded Concept Example:
+
+Given:
+m = 10 kg 
+a = 2 m/s²
+s = 0.005 (0.5%)
+v = 3 m/s
+k = 0.1 N⋅s²/m²
+
+Calculate drag force:
+D = k * v²
+D = 0.1 * (3 m/s)²
+D = 0.9 N
+
+Calculate force considering Mass-Speed Percentage and drag:
+F = m * (1 + s) * a + D
+F = 10 kg * (1 + 0.005) * 2 m/s² + 0.9 N
+F = 10 kg * 1.005 * 2 m/s² + 0.9 N
+F = 20.1 N + 0.9 N
+F = 21 N
+
+Force considering Mass-Speed Percentage and Drag = 21 N
+```
+
+This expanded formula incorporates the concept of drag force, which is the resistance an object encounters as it moves through a medium such as air or water. Drag force is typically proportional to the square of the object's velocity and is influenced by factors like the shape of the object and the properties of the medium. By introducing a drag force component, represented by the term D = k × v^2, where k is the drag coefficient and v is the velocity, the formula becomes more realistic for scenarios where an object is moving at a significant speed. This adjustment makes the model more applicable to real-world situations, where air resistance or other forms of drag can't be ignored.
+
+The generalized formula, F = m × (1 + s) × a + k × v^2, thus considers not only the basic principles of Newtonian mechanics (mass and acceleration) but also the effects of speed as a percentage and the resistance of the medium through which the object moves. In the provided example, the overall force is calculated by first determining the drag force based on velocity and then combining it with the modified force that accounts for mass and speed percentage. This results in a total force that better reflects the actual forces acting on an object in motion, providing a more comprehensive understanding of the dynamics involved.
+
+<br>
+</details>
+
 #
 ### Related Links
 
