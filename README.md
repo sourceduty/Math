@@ -13,6 +13,54 @@ Historically, mathematics has played a crucial role in the advancement of civili
 Mathematics is also a deeply creative field, where new concepts and methods are continually being developed. Mathematicians often explore abstract ideas and complex problems, pushing the boundaries of what is known and understood. This creative aspect of mathematics is what leads to new discoveries and applications, making it an ever-evolving discipline. Whether through pure mathematics, where the focus is on theoretical understanding, or applied mathematics, which seeks practical solutions to real-world problems, the field remains dynamic and vital.
 
 #
+### Math Concepts
+
+<details><summary>Increased Mass-Speed Percentage Formula Concept</summary>
+<br>
+
+#### Increased Mass-Speed Percentage Formula Concept
+
+Newton's Mass-Acceleration Force Formula:
+
+F = m * a
+
+Mass-Acceleration Force Formula Legend:
+
+F = force (N)
+m = mass of an object (kg)
+a = acceleration (m/s²)
+
+Concept Mass-Speed Percentage Formula:
+
+F = m * (1 + s) * a
+
+Concept Mass-Speed Percentage Formula Legend:
+
+F = Force considering Mass-Speed Percentage (N)
+m = mass of an object (kg)
+a = acceleration (m/s²)
+s = speed percentage (as a decimal)
+
+Concept Mass-Speed Percentage Example:
+
+F = m * (1 + s) * a
+
+m = 10 kg 
+a = 2 m/s²
+s = 0.005 (0.5%)
+
+F = 10 kg * (1 + 0.005) * 2 m/s² 
+F = 10 kg * 1.005 * 2 m/s² 
+F = 20.1 N
+
+Force Mass-Speed Percent = 20.1 N
+
+This concept introduces the idea of modifying the traditional force formula to account for a percentage of speed, which is represented by the term s. In the provided example, the force F is calculated using a mass of 10 kg, an acceleration of 2 m/s², and a speed percentage of 0.5% (converted to the decimal 0.005). The formula calculates the adjusted force considering this speed factor, resulting in a slightly increased force due to the speed percentage.
+
+<br>
+</details>
+
+#
 ### Related Links
 
 [Math Simulator](https://github.com/sourceduty/Math_Simulator)
