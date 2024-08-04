@@ -147,7 +147,7 @@ The generalized formula, F = m × (1 + s) × a + k × v^2, thus considers not on
 <br>
 [Statistic Simulator](https://chatgpt.com/g/g-BuaPnD6NF-statistic-simulator)
 <br>
-[Snow Load](https://chatgpt.com/g/g-4ZK2PHvVE-snow-load)
+[Snow Load](https://github.com/sourceduty/Snow_Load)
 <br>
 [Finance Model](https://github.com/sourceduty/Finance_Model)
 
