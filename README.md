@@ -20,6 +20,10 @@ Mathematics is also a deeply creative field, where new concepts and methods are 
 [Comfort Navigation Math](https://github.com/sourceduty/Comfort-Navigation_Math)
 <br>
 [Calendar math](https://github.com/sourceduty/Calendar_Math)
+<br>
+[Statistic Simulator](https://chatgpt.com/g/g-BuaPnD6NF-statistic-simulator)
+<br>
+[Snow Load](https://chatgpt.com/g/g-4ZK2PHvVE-snow-load)
 
 #
 
