@@ -13,7 +13,7 @@ Historically, mathematics has played a crucial role in the advancement of civili
 Mathematics is also a deeply creative field, where new concepts and methods are continually being developed. Mathematicians often explore abstract ideas and complex problems, pushing the boundaries of what is known and understood. This creative aspect of mathematics is what leads to new discoveries and applications, making it an ever-evolving discipline. Whether through pure mathematics, where the focus is on theoretical understanding, or applied mathematics, which seeks practical solutions to real-world problems, the field remains dynamic and vital.
 
 #
-### Math Concepts
+### Math Notes & Concepts
 
 <details><summary>Increased Mass-Speed Percentage Formula Concept</summary>
 <br>
