@@ -24,6 +24,8 @@ Mathematics is also a deeply creative field, where new concepts and methods are 
 [Statistic Simulator](https://chatgpt.com/g/g-BuaPnD6NF-statistic-simulator)
 <br>
 [Snow Load](https://chatgpt.com/g/g-4ZK2PHvVE-snow-load)
+<br>
+[Finance Model](https://github.com/sourceduty/Finance_Model)
 
 #
 
