@@ -467,6 +467,7 @@ Step 10: Summary of Results
 
 ```
 1. Task Duration Calculation
+
    Calculate the time taken for each task (processing and reviewing candidates).
 
    Formula:
@@ -478,6 +479,7 @@ Step 10: Summary of Results
 
 
 2. Sequential Task Processing
+
    Each candidate is processed and reviewed one after the other.
 
    Formula:
@@ -489,6 +491,7 @@ Step 10: Summary of Results
 
 
 3. Candidate Comparison
+
    After all candidates are processed and reviewed, compare them based on evaluation criteria.
 
    Formula:
@@ -499,6 +502,7 @@ Step 10: Summary of Results
 
 
 4. Final Decision Selection
+
    Select the top candidate based on the highest evaluation score or ranking.
 
    Formula:
@@ -509,6 +513,7 @@ Step 10: Summary of Results
 
 
 5. Notification and Process Completion
+
    Notify the selected candidate and end the process.
 
    Steps:
@@ -521,6 +526,7 @@ Step 10: Summary of Results
 
 
 6. Total Process Duration
+
    Calculate the overall duration for the entire process from start to finish.
 
    Formula:
