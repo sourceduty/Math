@@ -18,7 +18,7 @@ Mathematics is also a deeply creative field, where new concepts and methods are 
 <details><summary>Increased Mass-Speed Percentage Formula Concept</summary>
 <br>
 
-#### Increased Mass-Speed Percentage Formula Concept
+This concept introduces the idea of modifying the traditional force formula to account for a percentage of speed, which is represented by the term s. In the provided example, the force F is calculated using a mass of 10 kg, an acceleration of 2 m/s², and a speed percentage of 0.5% (converted to the decimal 0.005). The formula calculates the adjusted force considering this speed factor, resulting in a slightly increased force due to the speed percentage.
 
 ```
 Newton's Mass-Acceleration Force Formula:
@@ -57,7 +57,32 @@ F = 20.1 N
 Force Mass-Speed Percent = 20.1 N
 ```
 
-This concept introduces the idea of modifying the traditional force formula to account for a percentage of speed, which is represented by the term s. In the provided example, the force F is calculated using a mass of 10 kg, an acceleration of 2 m/s², and a speed percentage of 0.5% (converted to the decimal 0.005). The formula calculates the adjusted force considering this speed factor, resulting in a slightly increased force due to the speed percentage.
+To automate the calculation of force using the Concept Mass-Speed Percentage Formula, this a simple Python function that takes mass, acceleration, and speed percentage as inputs, and then outputs the calculated force.
+
+```
+def calculate_force(mass, acceleration, speed_percentage):
+    """
+    Calculate the force considering mass-speed percentage adjustment.
+
+    Parameters:
+    mass (float): The mass of the object in kilograms (kg).
+    acceleration (float): The acceleration of the object in meters per second squared (m/s²).
+    speed_percentage (float): The speed percentage as a decimal (e.g., 0.005 for 0.5%).
+
+    Returns:
+    float: The calculated force in newtons (N).
+    """
+    force = mass * (1 + speed_percentage) * acceleration
+    return force
+
+# Example usage:
+mass = 10  # kg
+acceleration = 2  # m/s²
+speed_percentage = 0.005  # 0.5%
+
+force = calculate_force(mass, acceleration, speed_percentage)
+print(f"Force Mass-Speed Percent = {force} N")
+```
 
 <br>
 </details>
@@ -150,6 +175,8 @@ The generalized formula, F = m × (1 + s) × a + k × v^2, thus considers not on
 [Snow Load](https://github.com/sourceduty/Snow_Load)
 <br>
 [Finance Model](https://github.com/sourceduty/Finance_Model)
+<br>
+[Math Programmer](https://github.com/sourceduty/Math_Programmer)
 
 #
 
