@@ -153,6 +153,10 @@ The generalized formula, F = m × (1 + s) × a + k × v^2, thus considers not on
 
 #
 
+![Einstein](https://github.com/user-attachments/assets/1bb8d957-029b-43db-83c1-822bd07f4dca)
+
+#
+
 Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
 
 ***
