@@ -556,6 +556,10 @@ Step 10: Summary of Results
 [Finance Model](https://github.com/sourceduty/Finance_Model)
 <br>
 [Math Programmer](https://github.com/sourceduty/Math_Programmer)
+<br>
+[Theory](https://github.com/sourceduty/Theory)
+<br>
+[Math Programmer](https://github.com/sourceduty/Math_Programmer)
 
 #
 
