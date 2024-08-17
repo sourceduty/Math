@@ -558,6 +558,8 @@ Step 10: Summary of Results
 [Math Programmer](https://github.com/sourceduty/Math_Programmer)
 <br>
 [Theory](https://github.com/sourceduty/Theory)
+<br>
+[Quantum](https://github.com/sourceduty/Quantum)
 
 #
 
