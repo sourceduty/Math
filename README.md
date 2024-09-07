@@ -578,6 +578,10 @@ Step 10: Summary of Results
 
 #
 
+![Simulation](https://github.com/user-attachments/assets/b715a298-69f5-4e74-b56e-28eefa2c510a)
+
+#
+
 Sourceduty shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
 
 ***
