@@ -556,7 +556,7 @@ Step 10: Summary of Results
 <br>
 [Comfort Navigation Math](https://github.com/sourceduty/Comfort-Navigation_Math)
 <br>
-[Calendar math](https://github.com/sourceduty/Calendar_Math)
+[Calendar Math](https://github.com/sourceduty/Calendar_Math)
 <br>
 [Statistic Simulator](https://chatgpt.com/g/g-BuaPnD6NF-statistic-simulator)
 <br>
