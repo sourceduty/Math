@@ -569,6 +569,8 @@ Step 10: Summary of Results
 [Theory](https://github.com/sourceduty/Theory)
 <br>
 [Quantum](https://github.com/sourceduty/Quantum)
+<br>
+[Theoretical Science Simulator](https://github.com/sourceduty/Theoretical_Science_Simulator)
 
 #
 
