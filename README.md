@@ -1,4 +1,4 @@
-![Newton](https://github.com/user-attachments/assets/e280ec46-c1c7-461a-b3ee-73dd0aa5168c)
+![Math Meme](https://github.com/user-attachments/assets/c1913601-2185-498f-b205-178364a9bee9)
 
 > Knowledgeable utilization of quantifying and accounting using equations to measure structures, shapes and spaces.
 
@@ -21,6 +21,8 @@ Furthermore, mathematical concepts and principles are consistent across cultures
 
 #
 ### Math Notes & Concepts
+
+![Newton](https://github.com/user-attachments/assets/e280ec46-c1c7-461a-b3ee-73dd0aa5168c)
 
 <details><summary>Increased Mass-Speed Percentage Formula Concept</summary>
 <br>
