@@ -1,4 +1,4 @@
-![Math Meme](https://github.com/user-attachments/assets/c1913601-2185-498f-b205-178364a9bee9)
+![Math](https://github.com/user-attachments/assets/42b878c0-2ca7-4a93-b077-b116cac94f74)
 
 > Knowledgeable utilization of quantifying and accounting using equations to measure structures, shapes and spaces.
 
@@ -14,6 +14,8 @@ Mathematics is also a deeply creative field, where new concepts and methods are 
 
 #
 ### Universal Across Languages
+
+![Math Meme](https://github.com/user-attachments/assets/c1913601-2185-498f-b205-178364a9bee9)
 
 Mathematics is widely regarded as one of the easiest subjects to teach across different languages due to its reliance on universal symbols and logical structures. Unlike subjects that depend heavily on linguistic nuances, mathematics uses numbers, formulas, and equations that are universally recognized, regardless of the language spoken. For instance, the concepts of addition, subtraction, multiplication, and division are expressed using the same symbols (+, -, *, /) worldwide, which eliminates the need for translation. This universal language of numbers and operations allows students from diverse linguistic backgrounds to engage with mathematical problems in a similar way, making the teaching process more streamlined and less reliant on verbal explanations.
 
