@@ -584,6 +584,10 @@ Step 10: Summary of Results
 
 #
 
+![Fuck Math](https://github.com/user-attachments/assets/b0c351a2-e185-4cc9-9f5a-1163260f3c99)
+
+#
+
 Sourceduty shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
 
 ***
