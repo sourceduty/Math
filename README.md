@@ -574,7 +574,7 @@ Step 10: Summary of Results
 
 #
 
-![math_guy](https://github.com/user-attachments/assets/d514bbe7-8af9-4c30-9bde-c8d1d3c9eba5)
+![math_guy meme](https://github.com/user-attachments/assets/fd881d17-8d60-4f57-8b95-3e1a3fb8ddc4)
 
 #
 
