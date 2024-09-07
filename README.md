@@ -22,6 +22,15 @@ Mathematics is widely regarded as one of the easiest subjects to teach across di
 Furthermore, mathematical concepts and principles are consistent across cultures and education systems. Theorems, such as Pythagoras' theorem or the quadratic formula, remain the same regardless of whether they are taught in English, Mandarin, Arabic, or any other language. This consistency extends to more advanced topics, such as calculus and algebra, where the use of symbols, Greek letters, and logical reasoning remains universally understood. By focusing on these common elements, educators can effectively teach mathematical concepts without the barriers posed by language differences, making mathematics a subject that truly transcends cultural and linguistic boundaries.
 
 #
+### Computational Math
+
+![Math Programmer](https://github.com/user-attachments/assets/9a42fa79-d1b3-446e-bbd4-e6f1f5ea8456)
+
+Computational math is a field that focuses on using algorithms, numerical methods, and mathematical models to solve complex problems that are too difficult or time-consuming to solve analytically. It plays a crucial role in various scientific and engineering fields, allowing researchers to simulate real-world phenomena and optimize solutions. Computational techniques can involve solving equations, optimizing functions, performing matrix operations, and simulating dynamic systems, all with the help of computers. With advances in technology, computational math has expanded into areas such as machine learning, data analysis, and cryptography, making it an essential tool in modern research and development.
+
+One of the core aspects of computational math is its ability to handle large-scale problems that require vast amounts of data or complex operations, which are often infeasible to manage manually. Numerical methods, like finite element analysis or Monte Carlo simulations, are commonly used to approximate solutions where exact answers are difficult to find. These methods allow for practical applications in fields like fluid dynamics, structural engineering, and financial modeling. By leveraging the power of computing, computational math provides accurate and efficient solutions to real-world challenges, pushing the boundaries of what can be accomplished through traditional mathematical techniques.
+
+#
 ### Math Notes & Concepts
 
 ![Newton](https://github.com/user-attachments/assets/e280ec46-c1c7-461a-b3ee-73dd0aa5168c)
@@ -581,10 +590,6 @@ Step 10: Summary of Results
 #
 
 ![Simulation](https://github.com/user-attachments/assets/b715a298-69f5-4e74-b56e-28eefa2c510a)
-
-#
-
-![Fuck Math](https://github.com/user-attachments/assets/b0c351a2-e185-4cc9-9f5a-1163260f3c99)
 
 #
 
