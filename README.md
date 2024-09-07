@@ -1,4 +1,4 @@
-![Math](https://github.com/user-attachments/assets/42b878c0-2ca7-4a93-b077-b116cac94f74)
+![Maths](https://github.com/user-attachments/assets/e801121d-c3ae-4719-ac59-2d95b7c4e221)
 
 > Knowledgeable utilization of quantifying and accounting using equations to measure structures, shapes and spaces.
 
