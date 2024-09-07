@@ -572,7 +572,7 @@ Step 10: Summary of Results
 
 #
 
-![Einstein](https://github.com/user-attachments/assets/1bb8d957-029b-43db-83c1-822bd07f4dca)
+![math_guy](https://github.com/user-attachments/assets/d514bbe7-8af9-4c30-9bde-c8d1d3c9eba5)
 
 #
 
