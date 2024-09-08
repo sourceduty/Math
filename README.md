@@ -615,6 +615,10 @@ Cubic             | a_n = an^3 + bn^2 + cn + d         | 1, 8, 27, 64, 125, ...
 
 #
 
+![Standard](https://github.com/user-attachments/assets/0b075973-1b79-426a-81e8-0cfa1dde1d25)
+
+#
+
 Sourceduty shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
 
 ***
