@@ -563,11 +563,10 @@ Step 10: Summary of Results
 <details><summary>Sequencing and Patterns</summary>
 <br>
 
-```
+
 Sequencing and patterns are fundamental concepts in mathematics and the natural world. A sequence is an ordered list of numbers or objects that follow a particular rule or pattern. Each term in a sequence holds a specific position, and understanding the rule behind it allows us to predict future terms or find relationships between different elements. Sequences can be arithmetic, geometric, or more complex types, like Fibonacci or harmonic sequences. In an arithmetic sequence, the difference between consecutive terms remains constant, while in a geometric sequence, each term is multiplied by a constant factor. These structured progressions are vital in mathematical analysis, programming algorithms, and even real-world applications like finance, where exponential growth models often emerge from geometric patterns.
 
 Patterns, more broadly, refer to regular, repeating structures or arrangements that can be observed in both mathematical contexts and everyday life. Recognizing and understanding patterns is essential for predicting future events, solving problems, and finding connections across seemingly unrelated fields. For instance, the Fibonacci sequence appears not only in mathematics but also in nature, seen in the arrangement of leaves, flower petals, and even the spirals of galaxies. In data science, identifying patterns within datasets helps uncover trends, make forecasts, or detect anomalies. Whether in abstract mathematical theories or practical scenarios, sequencing and patterns provide the foundation for understanding and interpreting the complex systems around us.
-```
 
 Sequence Type     | Formula                            | Example
 ------------------|------------------------------------|------------------------
