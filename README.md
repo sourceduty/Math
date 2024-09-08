@@ -560,6 +560,31 @@ Step 10: Summary of Results
 <br>
 </details>
 
+<details><summary>Sequencing and Patterns</summary>
+<br>
+
+```
+Sequencing and patterns are fundamental concepts in mathematics and the natural world. A sequence is an ordered list of numbers or objects that follow a particular rule or pattern. Each term in a sequence holds a specific position, and understanding the rule behind it allows us to predict future terms or find relationships between different elements. Sequences can be arithmetic, geometric, or more complex types, like Fibonacci or harmonic sequences. In an arithmetic sequence, the difference between consecutive terms remains constant, while in a geometric sequence, each term is multiplied by a constant factor. These structured progressions are vital in mathematical analysis, programming algorithms, and even real-world applications like finance, where exponential growth models often emerge from geometric patterns.
+
+Patterns, more broadly, refer to regular, repeating structures or arrangements that can be observed in both mathematical contexts and everyday life. Recognizing and understanding patterns is essential for predicting future events, solving problems, and finding connections across seemingly unrelated fields. For instance, the Fibonacci sequence appears not only in mathematics but also in nature, seen in the arrangement of leaves, flower petals, and even the spirals of galaxies. In data science, identifying patterns within datasets helps uncover trends, make forecasts, or detect anomalies. Whether in abstract mathematical theories or practical scenarios, sequencing and patterns provide the foundation for understanding and interpreting the complex systems around us.
+
+<br>
+
+Sequence Type     | Formula                            | Example
+------------------|------------------------------------|------------------------
+Arithmetic        | a_n = a_1 + (n - 1) × d            | 3, 7, 11, 15, 19, ...
+Geometric         | a_n = a_1 × r^(n - 1)              | 2, 6, 18, 54, ...
+Fibonacci         | F_n = F_(n - 1) + F_(n - 2)        | 0, 1, 1, 2, 3, 5, ...
+Harmonic          | a_n = 1 / n                        | 1, 1/2, 1/3, 1/4, ...
+Quadratic         | a_n = an^2 + bn + c                | 2, 6, 12, 20, 30, ...
+Triangular        | T_n = n(n + 1) / 2                 | 1, 3, 6, 10, 15, ...
+Cubic             | a_n = an^3 + bn^2 + cn + d         | 1, 8, 27, 64, 125, ...
+
+```
+
+<br>
+</details>
+
 #
 ### Related Links
 
