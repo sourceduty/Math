@@ -31,6 +31,15 @@ Computational math is a field that focuses on using algorithms, numerical method
 One of the core aspects of computational math is its ability to handle large-scale problems that require vast amounts of data or complex operations, which are often infeasible to manage manually. Numerical methods, like finite element analysis or Monte Carlo simulations, are commonly used to approximate solutions where exact answers are difficult to find. These methods allow for practical applications in fields like fluid dynamics, structural engineering, and financial modeling. By leveraging the power of computing, computational math provides accurate and efficient solutions to real-world challenges, pushing the boundaries of what can be accomplished through traditional mathematical techniques.
 
 #
+### Standardization
+
+![Standard](https://github.com/user-attachments/assets/0b075973-1b79-426a-81e8-0cfa1dde1d25)
+
+The metal measures displayed in the image are part of the Standard Yard exhibit located at the Royal Observatory in Greenwich, London. These measures represent the official lengths used in the UK, including the British yard, foot, and inches, embedded in a wall for public viewing. Installed in the 19th century, they were placed outside the Royal Observatory so that people could check and calibrate their measuring instruments to a reliable standard. This was especially important for tradespeople, scientists, and engineers during a time when precise measurements were crucial for construction, navigation, and scientific research. The display reflects a time before the metric system gained wide acceptance, when such imperial measures were critical to daily life and commerce.
+
+The Royal Observatory is historically significant as it played a central role in establishing both global time standards and geographical positioning. Besides housing the Standard Yard, it is also the home of the Prime Meridian, which sets the starting point for longitude measurements around the world. Greenwich became a symbolic center for timekeeping, leading to the adoption of Greenwich Mean Time (GMT). This combination of standardizing both time and measurement at Greenwich reflects the crucial role the site played in enabling more accurate global communication, navigation, and trade in the 19th and early 20th centuries. The Standard Yard remains a reminder of the importance of consistency in measurements for both historical and modern societies.
+
+#
 ### Math Notes & Concepts
 
 ![Newton](https://github.com/user-attachments/assets/e280ec46-c1c7-461a-b3ee-73dd0aa5168c)
@@ -612,10 +621,6 @@ Cubic             | a_n = an^3 + bn^2 + cn + d         | 1, 8, 27, 64, 125, ...
 #
 
 ![Simulation](https://github.com/user-attachments/assets/b715a298-69f5-4e74-b56e-28eefa2c510a)
-
-#
-
-![Standard](https://github.com/user-attachments/assets/0b075973-1b79-426a-81e8-0cfa1dde1d25)
 
 #
 
