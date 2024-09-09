@@ -1,4 +1,4 @@
-![Maths](https://github.com/user-attachments/assets/d462d848-f99c-493b-8e42-f481d3ed879b)
+![Smartass](https://github.com/user-attachments/assets/879d03da-3504-4527-b8cb-2b1b3e856d9f)
 
 > Knowledgeable utilization of quantifying and accounting using equations to measure structures, shapes and spaces.
 
@@ -24,7 +24,7 @@ Furthermore, mathematical concepts and principles are consistent across cultures
 #
 ### Computational Math
 
-![Math Programmer](https://github.com/user-attachments/assets/9a42fa79-d1b3-446e-bbd4-e6f1f5ea8456)
+![Maths](https://github.com/user-attachments/assets/d462d848-f99c-493b-8e42-f481d3ed879b)
 
 Computational math is a field that focuses on using algorithms, numerical methods, and mathematical models to solve complex problems that are too difficult or time-consuming to solve analytically. It plays a crucial role in various scientific and engineering fields, allowing researchers to simulate real-world phenomena and optimize solutions. Computational techniques can involve solving equations, optimizing functions, performing matrix operations, and simulating dynamic systems, all with the help of computers. With advances in technology, computational math has expanded into areas such as machine learning, data analysis, and cryptography, making it an essential tool in modern research and development.
 
