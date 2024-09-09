@@ -634,7 +634,7 @@ In a more profound sense, geometric symbols are often linked to philosophical, s
 
 #
 
-![Hot   Crazy](https://github.com/user-attachments/assets/a31fede1-6d7d-425c-a1cd-347ddb77545a)
+![Hands](https://github.com/user-attachments/assets/f0d17bf2-2ed4-4142-9e55-fde8fe21523a)
 
 #
 
