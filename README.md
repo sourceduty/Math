@@ -642,6 +642,10 @@ In a more profound sense, geometric symbols are often linked to philosophical, s
 
 #
 
+![Fingers](https://github.com/user-attachments/assets/beb12131-72ef-4032-a508-9758ed9a9be2)
+
+#
+
 Sourceduty shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
 
 ***
