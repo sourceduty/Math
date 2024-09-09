@@ -642,7 +642,7 @@ In a more profound sense, geometric symbols are often linked to philosophical, s
 
 #
 
-![Fingers](https://github.com/user-attachments/assets/beb12131-72ef-4032-a508-9758ed9a9be2)
+![Butthole](https://github.com/user-attachments/assets/a77ee3f4-4131-4076-bae8-ae76f4632f74)
 
 #
 
