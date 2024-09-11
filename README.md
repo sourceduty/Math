@@ -640,7 +640,7 @@ The real-world application of these advancements ensures that research subjects 
 <br>
 [Theoretical Science Simulator](https://github.com/sourceduty/Theoretical_Science_Simulator)
 <br>
-[new Science Subjects](https://github.com/sourceduty/New_Science_Subjects)
+[New Science Subjects](https://github.com/sourceduty/New_Science_Subjects)
 
 #
 
