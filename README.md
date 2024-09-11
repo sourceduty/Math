@@ -639,6 +639,8 @@ The real-world application of these advancements ensures that research subjects 
 [Quantum](https://github.com/sourceduty/Quantum)
 <br>
 [Theoretical Science Simulator](https://github.com/sourceduty/Theoretical_Science_Simulator)
+<br>
+[new Science Subjects](https://github.com/sourceduty/New_Science_Subjects)
 
 #
 
