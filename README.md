@@ -662,6 +662,10 @@ The real-world application of these advancements ensures that research subjects 
 
 #
 
+![Hands](https://github.com/user-attachments/assets/635d6b48-5624-46aa-86f0-1df61ea92e77)
+
+#
+
 Sourceduty shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
 
 ***
