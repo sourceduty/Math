@@ -666,6 +666,10 @@ The real-world application of these advancements ensures that research subjects 
 
 #
 
+![Retard-Time Plot Graph Meme](https://github.com/user-attachments/assets/ae64a83b-e228-48c5-9834-570b9e25145f)
+
+#
+
 Sourceduty shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
 
 ***
