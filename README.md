@@ -1,4 +1,4 @@
-![Smartass](https://github.com/user-attachments/assets/879d03da-3504-4527-b8cb-2b1b3e856d9f)
+![369](https://github.com/user-attachments/assets/413cf8ba-7d04-4eeb-a063-0eacbc1f6a90)
 
 > Knowledgeable utilization of quantifying and accounting using equations to measure structures, shapes and spaces.
 
@@ -666,7 +666,7 @@ The real-world application of these advancements ensures that research subjects 
 
 #
 
-![Retard-Time Plot Graph Meme](https://github.com/user-attachments/assets/ae64a83b-e228-48c5-9834-570b9e25145f)
+![Smartass](https://github.com/user-attachments/assets/879d03da-3504-4527-b8cb-2b1b3e856d9f)
 
 #
 
