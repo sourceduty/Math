@@ -643,6 +643,8 @@ The real-world application of these advancements ensures that research subjects 
 [New Science Subjects](https://github.com/sourceduty/New_Science_Subjects)
 <br>
 [Improvement Value](https://github.com/sourceduty/Improvement_Value)
+<br>
+[Theoretical Modelling](https://github.com/sourceduty/Theoretical_Modelling)
 
 #
 
