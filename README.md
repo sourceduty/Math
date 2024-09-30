@@ -643,8 +643,6 @@ The real-world application of these advancements ensures that research subjects 
 [Improvement Value](https://github.com/sourceduty/Improvement_Value)
 <br>
 [Theoretical Modelling](https://github.com/sourceduty/Theoretical_Modelling)
-<br>
-[Comfort-Navigation Math](https://github.com/sourceduty/Comfort-Navigation_Math)
 
 #
 
