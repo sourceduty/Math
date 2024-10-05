@@ -724,6 +724,8 @@ print(f"Estimated time for AI calculation: {ai_duration} seconds")
 [Theoretical Modelling](https://github.com/sourceduty/Theoretical_Modelling)
 <br>
 [Algorithms](https://github.com/sourceduty/Algorithms)
+<br>
+[Process](https://github.com/sourceduty/Process)
 
 #
 
