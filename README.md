@@ -726,35 +726,23 @@ print(f"Estimated time for AI calculation: {ai_duration} seconds")
 [Algorithms](https://github.com/sourceduty/Algorithms)
 <br>
 [Process](https://github.com/sourceduty/Process)
+<br>
+[Math Template](https://github.com/sourceduty/Math_Template)
 
 #
-
 ![math_guy meme](https://github.com/user-attachments/assets/fd881d17-8d60-4f57-8b95-3e1a3fb8ddc4)
-
 #
-
 ![Hands](https://github.com/user-attachments/assets/f0d17bf2-2ed4-4142-9e55-fde8fe21523a)
-
 #
-
 ![Simulation](https://github.com/user-attachments/assets/b715a298-69f5-4e74-b56e-28eefa2c510a)
-
 #
-
 ![Butthole](https://github.com/user-attachments/assets/a77ee3f4-4131-4076-bae8-ae76f4632f74)
-
 #
-
 ![Hands](https://github.com/user-attachments/assets/635d6b48-5624-46aa-86f0-1df61ea92e77)
-
 #
-
 ![Smartass](https://github.com/user-attachments/assets/879d03da-3504-4527-b8cb-2b1b3e856d9f)
-
 #
-
 ![Hands](https://github.com/user-attachments/assets/3c628d59-bcf0-4952-ac7b-53f0438fbf35)
-
 #
 
 Sourceduty shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
