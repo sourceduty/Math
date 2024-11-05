@@ -728,6 +728,8 @@ print(f"Estimated time for AI calculation: {ai_duration} seconds")
 [Process](https://github.com/sourceduty/Process)
 <br>
 [Math Template](https://github.com/sourceduty/Math_Template)
+<br>
+[Standard Measure](https://github.com/sourceduty/Standard_Measure)
 
 #
 ![math_guy meme](https://github.com/user-attachments/assets/fd881d17-8d60-4f57-8b95-3e1a3fb8ddc4)
