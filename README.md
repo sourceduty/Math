@@ -732,6 +732,8 @@ print(f"Estimated time for AI calculation: {ai_duration} seconds")
 [Standard Measure](https://github.com/sourceduty/Standard_Measure)
 <br>
 [Logic Gauge](https://github.com/sourceduty/Logic_Gauge)
+<br>
+[News](https://github.com/sourceduty/News)
 
 #
 ![math_guy meme](https://github.com/user-attachments/assets/fd881d17-8d60-4f57-8b95-3e1a3fb8ddc4)
