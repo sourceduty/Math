@@ -779,6 +779,8 @@ The total number of interchanges possible is given by the combination formula C(
 
 `Total Interchanges = 50 * (50 - 1) / 2 = 50 * 49 / 2 = 1225`
 
+In the context of this revolving interchange system, a revolution can be understood as a complete cycle where all the parts are swapped or rearranged across the modules in a way that every module is involved in an exchange. Essentially, it represents a full rotation or process where every part undergoes an interchange, possibly moving between different modules. The revolution would involve the system resetting to a starting configuration, with each module having its parts interchanged according to some predefined set of rules.
+
 <br>
 </details>
 
