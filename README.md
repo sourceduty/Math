@@ -777,7 +777,7 @@ In a revolving interchange system consisting of 10 modules, with 5 parts each, t
 
 The total number of interchanges possible is given by the combination formula C(n, 2), where n is the total number of parts (50 in this case). In addition to the interchanges, there is one management module that oversees the entire interchange system. This module coordinates and facilitates the smooth exchange of parts between modules, which is essential for ensuring the system's efficiency. The management module's role is to track and direct the interchanges, making the system operate cohesively. 
 
-`Total Interchanges = C(50, 2) = 50! / (2! * (50 - 2)!) = (50 * 49) / 2 = 1225 interchanges`
+`Total Interchanges = 50 * (50 - 1) / 2 = 50 * 49 / 2 = 1225`
 
 <br>
 </details>
