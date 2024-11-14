@@ -798,6 +798,8 @@ In the context of this revolving interchange system, a revolution can be underst
 </details>
 
 #
+> Alex: "*I feel like Imma format because Sourceduty is used in various contexts, universal and multipurposed. This is not exact but this is a small self-analysis.*"
+#
 ### Related Links
 
 [Math Simulator](https://github.com/sourceduty/Math_Simulator)
