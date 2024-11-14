@@ -63,6 +63,8 @@ Searching the web yielded several resources detailing the application of taxonom
 
 There is no universally recognized single taxonomy for mathematics, as the discipline is vast and multifaceted, encompassing a wide range of topics, methods, and applications. Efforts have been made to create structured frameworks, such as Bloom's Taxonomy adapted for mathematics education, or categorization by mathematical branches (e.g., arithmetic, algebra, geometry, analysis). However, these frameworks often focus on specific aspects, such as cognitive skills or curriculum design, rather than providing a comprehensive, unified taxonomy of all mathematical knowledge. Some initiatives in mathematical research and education attempt to map out relationships between different fields, like the Mathematics Subject Classification (MSC) system used in academia, but these are typically used for specific purposes rather than as an overarching taxonomy. As a result, while partial frameworks exist, a single, universally adopted taxonomy of mathematics has not been created.
 
+A universally recognized single taxonomy of mathematics remains unfeasible due to its vast and diverse scope, ranging from basic arithmetic to advanced topics like topology and abstract algebra. Attempts like the Mathematics Subject Classification (MSC) and adaptations of Bloom's Taxonomy in education demonstrate the potential to systematize mathematical knowledge for specific contexts, but they lack the comprehensiveness to encompass all areas, methods, and applications of mathematics. Thus, while useful partial frameworks exist, a unified, universally accepted taxonomy of mathematics does not yet exist.
+
 #
 ### Math Notes & Concepts
 
