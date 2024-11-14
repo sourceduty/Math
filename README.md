@@ -28,6 +28,25 @@ Furthermore, mathematical concepts and principles are consistent across cultures
 Mathematics is built upon a variety of concepts and theories that provide a framework for understanding and solving problems. These include fundamental areas such as algebra, calculus, geometry, and statistics, each of which is governed by its own set of principles and axioms. Theories like number theory explore the properties and relationships of numbers, while calculus deals with the study of change through derivatives and integrals. Geometry focuses on the properties and relations of points, lines, and shapes in space. Probability and statistics offer tools for analyzing uncertainty and data patterns. Through these concepts and theories, mathematics not only helps in abstract reasoning but also provides practical tools for a wide range of applications in science, technology, and everyday life, contributing to our understanding of the world around us.
 
 #
+### Prediction
+
+| Model Type        | Prediction Formula                          |
+|-------------------|---------------------------------------------|
+| Linear Regression | y = β0 + β1x                                |
+| Logistic Regression | y = 1 / (1 + e^-(β0 + β1x))                |
+| Polynomial Regression | y = β0 + β1x + β2x^2 + ... + βnx^n        |
+| Decision Tree     | y = f(x)                                    |
+| Random Forest     | y = average(f(x1), f(x2), ..., f(xn))       |
+| Support Vector Machine | y = sign(β0 + Σ(βi * xi))                |
+| Neural Network    | y = Σ(ωi * xi) + b                        |
+| K-Nearest Neighbors | y = mode(nearest_neighbors(x))             |
+| Naive Bayes       | P(y|x) = P(x|y)P(y) / P(x)                 |
+
+Prediction in mathematics is fundamentally about using existing data or patterns to estimate or forecast future outcomes. It relies on various models and algorithms that mathematically analyze trends, relationships, and dependencies within the data. These models are built on statistical and computational principles, enabling the creation of formulas that map inputs to expected results. For example, linear regression utilizes a straight line to model the relationship between two variables, allowing predictions for unknown data points based on the known trend. Other methods, like polynomial regression, provide more flexibility by using higher-degree equations to capture more complex relationships.
+
+At its core, mathematical prediction is about finding patterns and making decisions based on uncertainty. Techniques like decision trees or neural networks use more intricate algorithms to process multiple inputs and predict outcomes in dynamic, often high-dimensional, environments. These methods are widely applied in fields such as economics, engineering, and machine learning, where accurate predictions can optimize systems and improve decision-making. The underlying concept of prediction in mathematics thus involves both capturing the current state of a system and using that understanding to infer future behavior, a practice that is central to modeling real-world phenomena.
+
+#
 ### Computational Math
 
 Computational math is a field that focuses on using algorithms, numerical methods, and mathematical models to solve complex problems that are too difficult or time-consuming to solve analytically. It plays a crucial role in various scientific and engineering fields, allowing researchers to simulate real-world phenomena and optimize solutions. Computational techniques can involve solving equations, optimizing functions, performing matrix operations, and simulating dynamic systems, all with the help of computers. With advances in technology, computational math has expanded into areas such as machine learning, data analysis, and cryptography, making it an essential tool in modern research and development.
