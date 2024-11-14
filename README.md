@@ -38,6 +38,21 @@ The metal measures displayed in the image are part of the Standard Yard exhibit 
 
 The Royal Observatory is historically significant as it played a central role in establishing both global time standards and geographical positioning. Besides housing the Standard Yard, it is also the home of the Prime Meridian, which sets the starting point for longitude measurements around the world. Greenwich became a symbolic center for timekeeping, leading to the adoption of Greenwich Mean Time (GMT). This combination of standardizing both time and measurement at Greenwich reflects the crucial role the site played in enabling more accurate global communication, navigation, and trade in the 19th and early 20th centuries. The Standard Yard remains a reminder of the importance of consistency in measurements for both historical and modern societies.
 
+| Top 10 Standards of Mathematics |                                                                     |
+|---------------------------------|---------------------------------------------------------------------|
+| Standard                        | Description                                                         |
+|---------------------------------|---------------------------------------------------------------------|
+| Number and Operations           | Understanding numbers, performing computations, and making estimates.|
+| Algebra                         | Representing relationships, solving equations, and analyzing functions.|
+| Geometry                        | Analyzing shapes, spatial relationships, and applying geometric concepts.|
+| Measurement                     | Measuring attributes like length, area, and time with appropriate tools.|
+| Data Analysis                   | Collecting, interpreting data, and understanding probabilities.       |
+| Problem Solving                 | Developing strategies to approach and solve mathematical problems.    |
+| Reasoning and Proof             | Constructing logical arguments and validating solutions.              |
+| Communication                   | Clearly explaining and discussing mathematical concepts and solutions.|
+| Connections                     | Linking mathematical ideas to real-world applications and other disciplines.|
+| Representation                  | Using diagrams, graphs, and models to represent mathematical ideas.   |
+
 #
 ### Math Notes & Concepts
 
