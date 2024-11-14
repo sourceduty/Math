@@ -109,6 +109,11 @@ There is no universally recognized single taxonomy for mathematics, as the disci
 A universally recognized single taxonomy of mathematics remains unfeasible due to its vast and diverse scope, ranging from basic arithmetic to advanced topics like topology and abstract algebra. Attempts like the Mathematics Subject Classification (MSC) and adaptations of Bloom's Taxonomy in education demonstrate the potential to systematize mathematical knowledge for specific contexts, but they lack the comprehensiveness to encompass all areas, methods, and applications of mathematics. Thus, while useful partial frameworks exist, a unified, universally accepted taxonomy of mathematics does not yet exist.
 
 #
+### Wannabe Wisdom
+
+Wannabe Einstein-like mathematicians in modern times often strive for groundbreaking contributions that challenge conventional wisdom and reshape our understanding of the world. They are driven by a passion for solving complex problems, exploring abstract concepts, and seeking innovative theories that push the boundaries of existing knowledge. With advancements in technology and access to vast information, these individuals have a unique opportunity to build on the foundation laid by historical figures like Einstein, while also venturing into uncharted territories such as quantum computing, artificial intelligence, and higher-dimensional spaces. However, unlike their predecessors, they must navigate a landscape filled with collaboration, digital tools, and an increasing emphasis on interdisciplinary work to make their mark on the world of mathematics.
+
+#
 ### Math Notes & Concepts
 
 ![Newton](https://github.com/user-attachments/assets/e280ec46-c1c7-461a-b3ee-73dd0aa5168c)
