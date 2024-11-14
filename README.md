@@ -31,17 +31,32 @@ Mathematics is built upon a variety of concepts and theories that provide a fram
 ### Prediction
 
 ```
-| Model Type        | Prediction Formula                          |
-|-------------------|---------------------------------------------|
-| Linear Regression | y = β0 + β1x                                |
-| Logistic Regression | y = 1 / (1 + e^-(β0 + β1x))                |
-| Polynomial Regression | y = β0 + β1x + β2x^2 + ... + βnx^n        |
-| Decision Tree     | y = f(x)                                    |
-| Random Forest     | y = average(f(x1), f(x2), ..., f(xn))       |
-| Support Vector Machine | y = sign(β0 + Σ(βi * xi))                |
-| Neural Network    | y = Σ(ωi * xi) + b                        |
-| K-Nearest Neighbors | y = mode(nearest_neighbors(x))             |
-| Naive Bayes       | P(y|x) = P(x|y)P(y) / P(x)                 |
+- **Linear Regression**:  
+  Example: `y = β0 + β1x`
+
+- **Logistic Regression**:  
+  Example: `y = 1 / (1 + e^-(β0 + β1x))`
+
+- **Polynomial Regression**:  
+  Example: `y = β0 + β1x + β2x^2 + ... + βnx^n`
+
+- **Decision Tree**:  
+  Example: `y = f(x)`
+
+- **Random Forest**:  
+  Example: `y = average(f(x1), f(x2), ..., f(xn))`
+
+- **Support Vector Machine**:  
+  Example: `y = sign(β0 + Σ(βi * xi))`
+
+- **Neural Network**:  
+  Example: `y = Σ(ωi * xi) + b`
+
+- **K-Nearest Neighbors**:  
+  Example: `y = mode(nearest_neighbors(x))`
+
+- **Naive Bayes**:  
+  Example: `P(y|x) = P(x|y)P(y) / P(x)`
 ```
 
 Prediction in mathematics is fundamentally about using existing data or patterns to estimate or forecast future outcomes. It relies on various models and algorithms that mathematically analyze trends, relationships, and dependencies within the data. These models are built on statistical and computational principles, enabling the creation of formulas that map inputs to expected results. For example, linear regression utilizes a straight line to model the relationship between two variables, allowing predictions for unknown data points based on the known trend. Other methods, like polynomial regression, provide more flexibility by using higher-degree equations to capture more complex relationships.
