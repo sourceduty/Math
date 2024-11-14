@@ -809,6 +809,18 @@ Being a format that endures and adapts across lifetimes or centuries implies emb
 <br>
 </details>
 
+<details><summary>States</summary>
+<br>
+
+In mathematical contexts, the term "state" refers to the specific condition or configuration of a system at a given moment. A state captures all the necessary information about a system that determines its behavior and evolution according to a defined set of rules or equations. States are a fundamental concept in fields like dynamical systems, quantum mechanics, and probability theory. For example, in a dynamical system, the state is typically represented as a point in a state space, which is a multidimensional space where each axis corresponds to a variable or degree of freedom of the system.
+
+The measurement of a state depends on the type of system under study. In classical systems, states are often described as vectors or points in Euclidean or phase space, with measurements derived from their coordinates. For probabilistic systems, a state is described by a probability distribution, which measures the likelihood of the system being in specific configurations. In quantum mechanics, states are measured using wavefunctions or density matrices, and their properties are derived through operators that act on these mathematical representations. These measurements often yield expectation values, probabilities, or eigenvalues that correspond to observable quantities.
+
+The range between states can be described as the set of possible transitions or transformations that a system can undergo. This range is often represented mathematically as a path, trajectory, or manifold in state space. For discrete systems, the range between states might be specified by a transition matrix, which defines the probabilities or rules for moving from one state to another. In continuous systems, the range is often modeled by differential equations or vector fields. The "distance" between states can also be quantified, such as using metrics in Euclidean space, information-theoretic measures (e.g., Kullback-Leibler divergence for probability distributions), or quantum measures like the Hilbert space norm.
+
+<br>
+</details>
+
 #
 > Alex: "*I feel like Imma format because Sourceduty is used in various contexts, universal and multipurposed. This is not exact but this is a small self-analysis.*"
 #
