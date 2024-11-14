@@ -55,6 +55,15 @@ The Royal Observatory is historically significant as it played a central role in
 | Representation                  | Using diagrams, graphs, and models to represent mathematical ideas.   |
 
 #
+### Taxonomy of Math
+
+The taxonomy of mathematics organizes the subject into hierarchical categories to systematize concepts, skills, and learning objectives, facilitating understanding and teaching. At the foundational level are basic arithmetic and computational skills, serving as prerequisites for higher concepts like algebra, geometry, and calculus. As the hierarchy progresses, it incorporates more abstract and complex domains, such as linear algebra, number theory, and topology. In educational contexts, taxonomies like Bloom's are applied to mathematics to classify cognitive tasks by complexity, from remembering formulas and performing calculations to applying theorems, analyzing structures, and synthesizing new mathematical models. This structure not only aids curriculum development but also fosters critical thinking and problem-solving, essential for exploring advanced mathematical theories and real-world applications.
+
+Searching the web yielded several resources detailing the application of taxonomies, particularly Bloom's Taxonomy and its revised forms, in mathematics education. These resources highlight the use of structured frameworks to classify learning objectives, helping educators design curricula that foster critical thinking and problem-solving skills. Examples include tailored verb charts, strategies for promoting metacognition, and practical applications for levels of learning such as understanding, application, and analysis. Additionally, studies emphasize the role of taxonomies in achieving coherence in mathematics curricula and assessments, making them essential tools for educators aiming to enhance student learning outcomes. These documents are useful guides for structuring effective mathematics instruction.
+
+There is no universally recognized single taxonomy for mathematics, as the discipline is vast and multifaceted, encompassing a wide range of topics, methods, and applications. Efforts have been made to create structured frameworks, such as Bloom's Taxonomy adapted for mathematics education, or categorization by mathematical branches (e.g., arithmetic, algebra, geometry, analysis). However, these frameworks often focus on specific aspects, such as cognitive skills or curriculum design, rather than providing a comprehensive, unified taxonomy of all mathematical knowledge. Some initiatives in mathematical research and education attempt to map out relationships between different fields, like the Mathematics Subject Classification (MSC) system used in academia, but these are typically used for specific purposes rather than as an overarching taxonomy. As a result, while partial frameworks exist, a single, universally adopted taxonomy of mathematics has not been created.
+
+#
 ### Math Notes & Concepts
 
 ![Newton](https://github.com/user-attachments/assets/e280ec46-c1c7-461a-b3ee-73dd0aa5168c)
