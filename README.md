@@ -41,7 +41,6 @@ The Royal Observatory is historically significant as it played a central role in
 #
 ### Top 10 Standards of Mathematics 
 
-|---------------------------------|---------------------------------------------------------------------|
 | Standard                        | Description                                                         |
 |---------------------------------|---------------------------------------------------------------------|
 | Number and Operations           | Understanding numbers, performing computations, and making estimates.|
