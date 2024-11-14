@@ -827,6 +827,8 @@ In the context of this revolving interchange system, a revolution can be underst
 
 #
 ![Ruled](https://github.com/user-attachments/assets/b34de4b8-f760-455f-a27d-a5c64245c294)
+#
+![Caveman Math](https://github.com/user-attachments/assets/ed8f68b8-0c6b-4bf1-af87-04e938db9ad5)
 
 Sourceduty shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
 
