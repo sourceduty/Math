@@ -59,7 +59,7 @@ Prediction formulas:
 - **Naive Bayes**:  
   Example: `P(y|x) = P(x|y)P(y) / P(x)`
 
----------------------------------------------------------------------------------------------------------------------------
+.............................................................................................................................
 
 Prediction in mathematics is fundamentally about using existing data or patterns to estimate or forecast future outcomes. It relies on various models and algorithms that mathematically analyze trends, relationships, and dependencies within the data. These models are built on statistical and computational principles, enabling the creation of formulas that map inputs to expected results. For example, linear regression utilizes a straight line to model the relationship between two variables, allowing predictions for unknown data points based on the known trend. Other methods, like polynomial regression, provide more flexibility by using higher-degree equations to capture more complex relationships.
 
