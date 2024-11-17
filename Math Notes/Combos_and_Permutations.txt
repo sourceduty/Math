@@ -1,0 +1,39 @@
+Combos & Permutations
+
+---------------------------------------------------------------------------------
+
+Single: 1 item
+Double: 2 items
+Triple: 3 items
+Quadruple: 4 items
+Quintuple: 5 items
+Sextuple: 6 items
+Septuple: 7 items
+Octuple: 8 items
+Nontuple: 9 items
+Dectuple: 10 items
+
+-------------------------------------
+
+Permutations (Order Matters):
+
+P(n, r) = n! / (n - r)!
+
+Example: P(5, 3) = 5 × 4 × 3 = 60
+
+Combinations (Order Does Not Matter):
+
+C(n, r) = n! / [r!(n - r)!]
+
+Example: C(5, 3) = P(5, 3) ÷ 3! = 60 ÷ (3 × 2 × 1) = 10
+
+Definitions:
+
+n: Total number of items in the set
+r: Number of items selected at a time
+!: Factorial (e.g., 5! = 5 × 4 × 3 × 2 × 1 = 120)
+
+P(n, r): Permutations (order matters)
+C(n, r): Combinations (order does not matter)
+
+-------------------------------------
