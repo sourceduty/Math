@@ -831,7 +831,7 @@ The range between states can be described as the set of possible transitions or 
 </details>
 
 #
-> Alex: "*I feel like Imma format because Sourceduty is used in various contexts, universal and multipurposed. This is not exact but this is a small self-analysis.*"
+> Alex: "*Infinite is easier than impossible.*"
 #
 ### Related Links
 
