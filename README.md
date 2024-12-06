@@ -147,6 +147,17 @@ Encoding, on the other hand, is a method of converting data into a different for
 While encryption and encoding both transform data, their objectives are fundamentally different—encryption ensures privacy, while encoding ensures usability.
 
 #
+### Text Data Models
+
+![Text Data](https://github.com/user-attachments/assets/9446ac97-1787-4d60-abc1-2c000cc9cab4)
+
+A text data model is a conceptual framework that describes the structure and organization of information contained in unstructured or semi-structured text. It provides a way to represent, store, retrieve, and analyze large volumes of text data by breaking it down into smaller components such as words, phrases, sentences, paragraphs, documents, and topics.
+
+The purpose of creating a text data model is to make sense of the vast amounts of unstructured or semi-structured information that are generated every day in various forms like emails, social media posts, news articles, research papers, etc. By using techniques such as natural language processing (NLP), machine learning algorithms, and statistical analysis, a text data model can extract meaningful insights from this data and help organizations make informed decisions based on the analyzed information.
+
+Some common examples of text data models include bag-of-words model, n-grams model, topic modeling, document clustering, sentiment analysis, entity recognition, and part-of-speech tagging. These models can be used individually or in combination to create a comprehensive understanding of the underlying structure and meaning of large volumes of text data.
+
+#
 ### Math Notes & Concepts
 
 ![Newton](https://github.com/user-attachments/assets/e280ec46-c1c7-461a-b3ee-73dd0aa5168c)
