@@ -1,0 +1,28 @@
+Lightweight Binary Encoding (LBE) is an efficient way to represent numerical data in memory using only 1 bit per value, making it suitable for large datasets where space efficiency is critical. It's often used as part of the preprocessing pipeline before training machine learning models or performing other computations on tabular data. 
+
+Here are some key aspects:
+
+- LBE represents each feature (column) independently and uses a fixed number of bits to encode values within that column, typically 1 bit per value.
+
+- The encoding is done in two steps: first the range of possible values for each feature is determined from the training set or data being processed; then based on this range, an integer mapping between original values and their binary representation is generated (e.g., using a lookup table).  
+
+For example, if you have a categorical variable with 3 unique categories:
+
+- "A" mapped to 01
+- "B" mapped to 10
+- "C" mapped to 11
+
+Then the LBE representation of this feature would be just two bits per value. This is much more compact than storing each category as a string or integer, especially for large datasets with many categories.
+
+The main advantages are:  
+
+- Reduced memory footprint compared to other encodings like one-hot encoding 
+- Faster processing since it's possible to perform operations on the binary data directly without converting back and forth between strings/integers
+- Can be used in conjunction with compressed storage formats for further space savings when storing datasets
+
+However, there are some limitations:  
+
+- Not suitable for features that have a very large number of unique values (e.g., millions) since it would require many bits per value to represent them 
+- The encoding is not reversible without the mapping table so you can't directly interpret what each binary code represents
+
+Overall, LBE provides an efficient way to compress numerical data in memory for machine learning and other applications where space efficiency is important. It requires some preprocessing but offers significant performance benefits compared to storing raw values or using more verbose encodings like one-hot encoding when the number of unique categories per feature is relatively small.
