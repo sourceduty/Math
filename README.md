@@ -861,6 +861,18 @@ The range between states can be described as the set of possible transitions or 
 <br>
 </details>
 
+<details><summary>Nested Recursive Terms</summary>
+<br>
+
+![nested term](https://github.com/user-attachments/assets/e176d2b7-70c7-4350-882f-b95bb625c320)
+
+Nested recursive terms are a way to construct complex expressions by repeatedly applying function symbols or variables within other functions or predicates. They arise naturally when studying models with infinitely many elements (infinite structures) as they allow us to represent infinite sequences and trees that cannot be expressed using finite combinations of basic building blocks alone.
+
+Nested recursive terms are essential tools when studying infinite structures as they allow us to represent complex, potentially unbounded behavior within a finite language. They provide an elegant way to capture patterns and relationships between elements of infinitely large models by defining them in terms of themselves at different levels of abstraction through recursion. This makes nested recursive terms crucial for analyzing the expressive power of logic over infinite structures as well as their model theory properties like compactness, completeness etc., which rely heavily on being able to represent such complex behaviors within a finite language.
+
+<br>
+</details>
+
 #
 > Alex: "*Infinite is easier than impossible.*"
 #
