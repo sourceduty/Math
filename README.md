@@ -140,6 +140,8 @@ Beyond mathematics, infinity serves as a conceptual tool in theoretical physics,
 #
 ### Wannabe Wisdom
 
+![Einstein](https://github.com/user-attachments/assets/b28482ef-60f8-4b26-ac66-0d40b4f1fb0b)
+
 Wannabe Einstein-like mathematicians in modern times often strive for groundbreaking contributions that challenge conventional wisdom and reshape our understanding of the world. They are driven by a passion for solving complex problems, exploring abstract concepts, and seeking innovative theories that push the boundaries of existing knowledge. With advancements in technology and access to vast information, these individuals have a unique opportunity to build on the foundation laid by historical figures like Einstein, while also venturing into uncharted territories such as quantum computing, artificial intelligence, and higher-dimensional spaces. However, unlike their predecessors, they must navigate a landscape filled with collaboration, digital tools, and an increasing emphasis on interdisciplinary work to make their mark on the world of mathematics.
 
 #
