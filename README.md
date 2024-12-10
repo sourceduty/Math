@@ -875,6 +875,8 @@ Nested recursive terms are essential tools when studying infinite structures as 
 
 #
 > Alex: "*Infinite is easier than impossible.*"
+
+> "*I like to parodize mathematical infinities.*"
 #
 ### Related Links
 
