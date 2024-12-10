@@ -892,8 +892,6 @@ The range between states can be described as the set of possible transitions or 
 <br>
 [Process](https://github.com/sourceduty/Process)
 <br>
-[Math Template](https://github.com/sourceduty/Math_Template)
-<br>
 [Standard Measure](https://github.com/sourceduty/Standard_Measure)
 <br>
 [Logic Gauge](https://github.com/sourceduty/Logic_Gauge)
