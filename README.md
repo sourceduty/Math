@@ -917,6 +917,8 @@ Nested recursive terms are essential tools when studying infinite structures as 
 [Logic Gauge](https://github.com/sourceduty/Logic_Gauge)
 <br>
 [News](https://github.com/sourceduty/News)
+<br>
+[Theoretical Ontology](https://github.com/sourceduty/Theoretical_Ontology)
 
 #
 ![Ruled](https://github.com/user-attachments/assets/b34de4b8-f760-455f-a27d-a5c64245c294)
