@@ -25,6 +25,8 @@ Furthermore, mathematical concepts and principles are consistent across cultures
 #
 ### Templates
 
+![Cheats](https://github.com/user-attachments/assets/ea16b902-e858-447a-a343-c3d164504cff)
+
 [Math Template](https://github.com/sourceduty/Math_Template) specializes in transforming mathematical problems and calculations into clear, standardized templates. It helps users by organizing complex equations and mathematical models into easy-to-read formats, ensuring clarity and precision. The focus is on providing structured formulas for a variety of mathematical disciplines, such as algebra, calculus, and applied mathematics, while avoiding unnecessary jargon or complexity. This makes it particularly useful for tasks that involve solving or presenting mathematical problems in a clean, organized way.
 
 #
