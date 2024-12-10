@@ -23,6 +23,11 @@ Mathematics is widely regarded as one of the easiest subjects to teach across di
 Furthermore, mathematical concepts and principles are consistent across cultures and education systems. Theorems, such as Pythagoras' theorem or the quadratic formula, remain the same regardless of whether they are taught in English, Mandarin, Arabic, or any other language. This consistency extends to more advanced topics, such as calculus and algebra, where the use of symbols, Greek letters, and logical reasoning remains universally understood. By focusing on these common elements, educators can effectively teach mathematical concepts without the barriers posed by language differences, making mathematics a subject that truly transcends cultural and linguistic boundaries.
 
 #
+### Templates
+
+[Math Template](https://github.com/sourceduty/Math_Template) specializes in transforming mathematical problems and calculations into clear, standardized templates. It helps users by organizing complex equations and mathematical models into easy-to-read formats, ensuring clarity and precision. The focus is on providing structured formulas for a variety of mathematical disciplines, such as algebra, calculus, and applied mathematics, while avoiding unnecessary jargon or complexity. This makes it particularly useful for tasks that involve solving or presenting mathematical problems in a clean, organized way.
+
+#
 ### Concepts and Theories
 
 ![Ascending Complexity and Descending Difficulty of Knowledge](https://github.com/user-attachments/assets/84e1d5f1-cafb-4ab1-877c-16565eb6ed4b)
